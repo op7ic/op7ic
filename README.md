@@ -1,2 +1,1 @@
-# op7ic
- 
+[![Jerzy 'Yuri' Kramarz github stats](https://github-readme-stats.vercel.app/api?username=op7ic)](https://github.com/anuraghazra/github-readme-stats)
