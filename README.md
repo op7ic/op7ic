@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jerzy 'Yuri' Kramarz github stats](https://github-readme-stats.vercel.app/api?username=op7ic)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerzy 'Yuri' Kramarz github stats](https://github-readme-stats.vercel.app/api?username=op7ic&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
